@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/ruffrey/strength",
   "devDependencies": {
-    "mocha": "^3.1.2",
+    "mocha": "^3.2.0",
     "should": "^11.1.1"
   }
 }
